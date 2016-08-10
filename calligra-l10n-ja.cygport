@@ -8,3 +8,5 @@ SUMMARY="Calligra Suite Japanese translation files"
 DESCRIPTION="Calligra Suite Japanese translation files"
 HOMEPAGE="http://calligra-suite.org/"
 SRC_URI="mirror://kde/stable/calligra-${VERSION}/calligra-l10n/${NAME}-${VERSION}.tar.xz"
+
+ARCH=noarch
